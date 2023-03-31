@@ -9,3 +9,31 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+
+
+html{
+    background-color: white;
+}
+header{
+    background-color: aquamarine;
+    padding-top: 20px;
+}
+footer{
+background-color: aquamarine;
+padding-top: 20px;
+}
+h1{
+    text-align: center;
+}
+p{
+    color: rgb(255, 0, 255);
+    font-style:italic;
+}
+.image{
+    border-color: red;
+    border-width: 20px;
+    border-style: solid;
+}
+.font {
+    font-family:Helvetica, sans-serif;
+}
